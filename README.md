@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ##ilosrim
+- 👋 Hi, I’m ilosrim
 - 👀 I am interested in code writing, computer games and music
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS and TypeScript
 - 💞️ I’m looking to collaborate on with other programmers
