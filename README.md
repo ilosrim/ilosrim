@@ -45,12 +45,12 @@
 
 
 [website]: https://ilosrim.netlify.app/
-[course]: http://vsCodeHero.com
+[course]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
 [twitter]: https://twitter.com/ilosrim
-[youtube]: https://youtube.com/codahiri
+[youtube]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
 [instagram]: https://instagram.com/ilosrim
 [linkedin]: https://linkedin.com/in/ilosrim
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
+[jsplaylist]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
+[cssplaylist]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
+[reactplaylist]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
