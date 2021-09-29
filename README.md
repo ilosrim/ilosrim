@@ -1,7 +1,7 @@
 ### Hi there, I'm Mirsoli - a.k.a [ilosrim][website] 👋
 
 
-## I'm a Developer!!
+## I'm a Frontend Developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
