@@ -9,6 +9,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/) [![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
+
+[![ilosrim's github stats](https://github-readme-stats.vercel.app/api?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/)
+<!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilosrim&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+
 ### Connect with me:
 
 [<img align="left" alt="ilosrim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
