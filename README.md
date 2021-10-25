@@ -9,7 +9,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/) [![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/) 
+
+[![wakatime](https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg)](https://wakatime.com/@2a073cc4-52af-4e89-b252-7f90ce7822a9)
+[![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
 
 [![ilosrim's github stats](https://github-readme-stats.vercel.app/api?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
