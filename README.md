@@ -1,13 +1,7 @@
 ### Hi there, I'm Mirsoli - a.k.a [ilosrim][website] 👋
 
 
-## I'm a Frontend Developer!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## I'm a Frontend Developer!!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/) 
 
