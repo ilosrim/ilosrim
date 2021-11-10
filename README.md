@@ -4,7 +4,6 @@
 ## I'm a Frontend Developer!!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/) <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?ilosrim=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg)](https://wakatime.com/@2a073cc4-52af-4e89-b252-7f90ce7822a9) <br />
 [![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
