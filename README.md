@@ -3,13 +3,18 @@
 
 ## I'm a Frontend Developer!!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/) <br />
-
-[![wakatime](https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg)](https://wakatime.com/@2a073cc4-52af-4e89-b252-7f90ce7822a9) <br />
-[![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilosrim&theme=github_dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
 [![ilosrim's github stats](https://github-readme-stats.vercel.app/api?username=ilosrim&theme=github_dark&show_icons=true)](https://github.com/ilosrim/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
+
+
+[![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
+<br />
+[![wakatime](https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg)](https://wakatime.com/@2a073cc4-52af-4e89-b252-7f90ce7822a9)
+<br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilosrim&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
