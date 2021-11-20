@@ -118,10 +118,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ilosrim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ilosrim&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!--
-[![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
-<br />
-[![wakatime](https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg)](https://wakatime.com/@2a073cc4-52af-4e89-b252-7f90ce7822a9)
-<br />
 
 ### Connect with me:
 
@@ -149,7 +145,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
--->
+
 [website]: https://ilosrim.netlify.app/
 [course]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
 [twitter]: https://twitter.com/ilosrim
@@ -169,3 +165,4 @@
 [github]:https://github.com/
 [terminal]:https://nus-unix-workshop.github.io/2021-s1/shell/
 [webdevplaylist]: https://www.youtube.com/channel/UCNEZD1V6QMo1h1wEi7JVzug
+-->
