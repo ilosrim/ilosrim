@@ -113,6 +113,19 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+## 📊 Wakatime stats
+
+<!-- https://github-readme-stats.vercel.app -->
+<details>
+  <summary>💻 Wakatime Profile Stats</summary>
+  <a href="https://wakatime.com/badge/"><img alt="ilosrim's Wakatime bage" src="https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg"/></a>
+  <br/>
+  <a href="https://github-readme-stats.vercel.app/"><img alt="ilosrim's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&layout=compact" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+## 📊 Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ilosrim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ilosrim&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
