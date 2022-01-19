@@ -50,6 +50,9 @@
   
   <summary>More info</summary>
   
+  ## QR Code
+  <img align="center" width="200" height="250" src='https://firebasestorage.googleapis.com/v0/b/ilosrim.appspot.com/o/qrcode.png?alt=media&token=aebecce6-5a08-417f-a107-33312b4bbad4' alt='My qr code'>
+  
   ### 🧰 Frameworks and libraries
   <details>
     <summary>Frameworks and libraries</summary>
