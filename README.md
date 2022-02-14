@@ -50,9 +50,6 @@
   
   <summary>More info</summary>
   
-  ## QR Code
-  <img align="center" width="200" height="250" src='https://firebasestorage.googleapis.com/v0/b/ilosrim.appspot.com/o/qrcode.png?alt=media&token=aebecce6-5a08-417f-a107-33312b4bbad4' alt='My qr code'>
-  
   ### 🧰 Frameworks and libraries
   <details>
     <summary>Frameworks and libraries</summary>
@@ -158,6 +155,9 @@
     <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ilosrim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ilosrim&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </details>
+  
+  ## QR Code
+  <img align="center" width="200" height="250" src='https://firebasestorage.googleapis.com/v0/b/ilosrim.appspot.com/o/qrcode.png?alt=media&token=aebecce6-5a08-417f-a107-33312b4bbad4' alt='My qr code'>
   
 </details>
 <!-- ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
