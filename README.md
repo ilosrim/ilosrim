@@ -32,6 +32,9 @@
   <a href="https://github.com/ilosrim">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ilosrim&style=for-the-badge"/></a>
 </p>
+<p align="center">
+  <a href="https://wakatime.com/badge/"><img alt="ilosrim's Wakatime bage" src="https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg"/></a>
+</p>
 
 ## 🔥 Streak stats
 
