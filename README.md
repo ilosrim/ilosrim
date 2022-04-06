@@ -1,4 +1,4 @@
-# ilosrim - ***software engineer***
+# ilosrim - ***software engineer & bioinformatic***
 
 ## Skils:
 - HTML5, CSS3, SASS, SCSS, Bootstrap 4/5, Tailwind CSS
