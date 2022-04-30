@@ -1,6 +1,6 @@
 # ilosrim - ***software engineer & bioinformatic***
 
-## Skils:
+## Skills:
 - HTML5, CSS3, SASS, SCSS, Bootstrap 4/5, Tailwind CSS
 - JavaScript (ES6), Typescript, Python, R, C, Rust, GO
 - React JS, Vue JS
