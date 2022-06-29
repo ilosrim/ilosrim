@@ -12,6 +12,9 @@
 A programmer in the field of bioinformatics as well as the production of frontend web and telegram bots has +2 years of experience. Creator of e-commerce, single-page and multi-page, as well as admin panel websites. Specializes in project implementation and management. A curious programmer eager to learn new knowledge;)
 
 ## Links:
+<a href="mailto:info@ilosrim.uz" target="_blank">
+   <img align="left" style="color:white" alt="ilosrim.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
 <a href="https://ilosrim.uz" target="_blank">
    <img align="left" style="color:white" alt="ilosrim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
