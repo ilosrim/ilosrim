@@ -6,6 +6,7 @@
 - React JS, Vue JS
 - Node JS, Deno
 - Material UI, AntDesign
+- Autodock 4, Autodock Vina, PyMol, Discovery Studio
 - Figma, Adobe Photoshop 
 
 ## About:
