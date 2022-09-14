@@ -1,19 +1,23 @@
-# ilosrim - ***software engineer & bioinformatic***
+# My name is Mirsoli a.k.a `ilosrim`
+## I'm a ***software engineer & bioinformatic***
 
 ## Skills:
-- HTML5, CSS3, SASS, SCSS, Bootstrap 4/5, Tailwind CSS
-- JavaScript (ES6), Typescript, Python, R, Bash script, C, Rust, GO
-- React JS, Vue JS
+- JavaScript (ES6), Typescript, Python, R, Bash script
+- React JS, Vue JS, Fresh
+- HTML5, CSS3, SASS, SCSS
 - Node JS, Deno
-- Material UI, AntDesign
-- Autodock 4, Autodock Vina, PyMol, Discovery Studio
-- Figma, Adobe Photoshop 
+- Material UI, AntDesign, Tailwind CSS, Bootstrap/Reactstrap
+
+## Tools
+- Autodock 4, Autodock Vina, PyMol, Discovery Studio, PyRx
+- Figma, Adobe Photoshop, Notion, MO Word, MO Exel
+- Chrome, Firefox, Edge
 
 ## About:
 A programmer in the field of bioinformatics as well as the production of frontend web and telegram bots has +2 years of experience. Creator of e-commerce, single-page and multi-page, as well as admin panel websites. Specializes in project implementation and management. A curious programmer eager to learn new knowledge;)
 
 ## Links:
-<a href="mailto:info@ilosrim.uz" target="_blank">
+<a href="mailto:ilosrim@yahoo.com" target="_blank">
    <img align="left" style="color:white" alt="ilosrim.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 <a href="https://ilosrim.uz" target="_blank">
