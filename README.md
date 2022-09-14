@@ -9,6 +9,7 @@
 - Material UI, AntDesign, Tailwind CSS, Bootstrap/Reactstrap
 
 ## Tools
+- VS Code, Micro, Vim
 - Autodock 4, Autodock Vina, PyMol, Discovery Studio, PyRx
 - Figma, Adobe Photoshop, Notion, MO Word, MO Exel
 - Chrome, Firefox, Edge
