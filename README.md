@@ -1,7 +1,8 @@
-#### **My name is Mirsoli a.k.a [ilosrim](https://twitter.com/ilosrim)**
+### **My name is Mirsoli a.k.a [ilosrim](https://twitter.com/ilosrim)**
 ##### I'm a ***software engineer & bioinformatic***
 
 <!--
+
 ## Skills:
 - JavaScript (ES6), Typescript, Python, R, Bash script
 - React JS, Vue JS, Fresh
@@ -17,6 +18,7 @@
 
 ## About:
 I am a programmer, in the field of bioinformatics as well as the production of frontend web and telegram bots. I have two-years experience in the field. In addition, I'm a creator of e-commerce, single-page and multi-page, as well as admin panel websites.
+
 -->
 
 ##### Links:
