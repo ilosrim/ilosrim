@@ -1,4 +1,4 @@
-## **My name is Mirsoli a.k.a [ilosrim](https://twitter.com/ilosrim)**
+## **My name is Mirsoli a.k.a [ilosrim](https://ilosrim.uz)**
 ##### I'm a ***software engineer & bioinformatic***
 
 <!--
