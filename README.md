@@ -22,6 +22,7 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 -->
 
 ##### Links:
+
 <a href="mailto:ilosrim@yahoo.com" target="_blank">
    <img align="left" style="color:white" alt="ilosrim.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
