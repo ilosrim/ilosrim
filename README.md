@@ -1,24 +1,23 @@
-## I'm a ***software engineer & bioinformatic***
+## Software engineer
 
-<!--
-## Skills:
-- JavaScript (ES6), Typescript, Python, R, Bash script
-- React JS, Vue JS, Fresh
+
+### Skills:
+- Typescript, JavaScript
+- Angular, React/Next JS
 - HTML5, CSS3, SASS, SCSS
 - Node JS, Deno
-- Material UI, AntDesign, Tailwind CSS, Bootstrap/Reactstrap
+- Angular Material, Ant Design of Angular, Tailwind CSS, Bootstrap/Reactstrap
 
-## Tools
+### Tools
 - VS Code, Micro, Vim
-- Autodock 4, Autodock Vina, PyMol, Discovery Studio, PyRx
-- Figma, Adobe Photoshop, Notion, MO Word, MO Exel
+- Figma, Notion, MO Word, MO Exel
 - Chrome, Firefox, Edge
-
+<!--
 ## About:
 I am a programmer, in the field of bioinformatics as well as the production of frontend web and telegram bots. I have two-years experience in the field. In addition, I'm a creator of e-commerce, single-page and multi-page, as well as admin panel websites.
 -->
 
-#### Links:
+### Links:
 
 <a href="https://ilosrim.uz" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's portfolio website" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Edge.svg" />
@@ -39,6 +38,16 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 <a href="https://instagram.com/ilosrim" target="_blank">
    <img align="left" style="color:white" alt="mirjr's twitter profile" width="22px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" />
 </a>
+
+<br>
+<hr>
+
+### Activity graph
+
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/5b73517b-0446-4947-905f-aca4424657fb.svg)](https://wakatime.com/@5b73517b-0446-4947-905f-aca4424657fb) <br />
+[![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
 
 <!-- <a href="mailto:ilosrim@yahoo.com" target="_blank">
    <img align="left" style="color:white" alt="ilosrim.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
