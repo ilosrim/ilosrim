@@ -4,9 +4,9 @@
 ### Skills:
 - Typescript, JavaScript
 - Angular, React/Next JS
-- HTML5, CSS3, SASS, SCSS
-- Node JS, Deno
 - Angular Material, Ant Design of Angular, Tailwind CSS, Bootstrap/Reactstrap
+- HTML, CSS, SASS, SCSS, LESS
+- Node JS, Deno
 
 ### Tools
 - VS Code, Micro, Vim
