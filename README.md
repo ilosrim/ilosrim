@@ -19,7 +19,7 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 
 ### Links:
 
-<a href="https://blog.ilosrim.vercel.com" target="_blank">
+<a href="https://blog.ilosrim.vercel.app" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's portfolio website" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Edge.svg" />
 </a>
 <a href="https://linkedin.com/in/ilosrim" target="_blank">
