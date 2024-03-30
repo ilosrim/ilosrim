@@ -46,7 +46,7 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 
 <br>
 
-[![wakatime](https://wakatime.com/badge/user/5b73517b-0446-4947-905f-aca4424657fb.svg)](https://wakatime.com/@5b73517b-0446-4947-905f-aca4424657fb) <br />
+[![wakatime](https://wakatime.com/badge/user/2a073cc4-52af-4e89-b252-7f90ce7822a9.svg)](https://wakatime.com/@2a073cc4-52af-4e89-b252-7f90ce7822a9) <br />
 [![ilosrim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ilosrim&theme=github_dark&layout=compact)](https://wakatime.com/@ilosrim)
 
 <!-- <a href="mailto:ilosrim@yahoo.com" target="_blank">
