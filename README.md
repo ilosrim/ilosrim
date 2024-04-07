@@ -1,6 +1,21 @@
-## Software engineer
+### 🙋‍♂️ Hi, I'm Mirsoli - a.k.a **ilosrim**
+### 💻 I am a software engineer
 
+🗒 Skills:
 
+- Typescript, Javascript, rust, bash-script
+- Angular, React.js, Next.js
+- HTML, CSS, SASS, SCSS
+- Node JS, Deno
+- Angular Material, Ng-Zorro, Material UI, AntDesign, Tailwind CSS, Bootstrap/Reactstrap
+
+⚙ Tools:
+
+- Neovim, VS Code, Micro
+- Figma, Notion, MO Word, MO Exel
+- Chrome, Firefox, Edge
+
+<!--
 ### Skills:
 - Typescript, JavaScript
 - Angular, React/Next JS
@@ -12,6 +27,7 @@
 - VS Code, Micro, Vim
 - Figma, Notion, MO Word, MO Exel
 - Chrome, Firefox, Edge
+-->
 <!--
 ## About:
 I am a programmer, in the field of bioinformatics as well as the production of frontend web and telegram bots. I have two-years experience in the field. In addition, I'm a creator of e-commerce, single-page and multi-page, as well as admin panel websites.
