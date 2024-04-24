@@ -3,11 +3,11 @@
 
 🗒 Skills:
 
-- Typescript, Javascript, rust, bash-script
-- Angular, React.js, Next.js
-- HTML, CSS, SASS, SCSS
+- Typescript, Javascript, PHP, rust, bash-script
+- Angular, Yii2, React
+- HTML, CSS, SCSS, Less
 - Node JS, Deno
-- Angular Material, Ng-Zorro, Material UI, AntDesign, Tailwind CSS, Bootstrap/Reactstrap
+- Angular Material, Ng-Zorro, Material UI, AntDesign, Tailwind CSS, Bootstrap, Reactstrap
 
 ⚙ Tools:
 
