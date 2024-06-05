@@ -3,8 +3,8 @@
 
 🗒 Skills:
 
-- Typescript, Javascript, PHP, rust, bash-script
-- Angular, Yii2, React
+- PHP, Typescript, Javascript, rust, bash
+- Yii2, Angular, React
 - HTML, CSS, SCSS, Less
 - Node JS, Deno
 - Angular Material, Ng-Zorro, Material UI, AntDesign, Tailwind CSS, Bootstrap, Reactstrap
