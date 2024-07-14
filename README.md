@@ -1,13 +1,16 @@
+[![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
+
 ### 🙋‍♂️ Hi, I'm Mirsoli - a.k.a **ilosrim**
 ### 💻 I am a software engineer
 
 🗒 Skills:
 
 - PHP, Typescript, Javascript, rust, bash
-- Yii2, Angular, React
+- Yii2, Laravel, Angular, React
 - HTML, CSS, SCSS, Less
 - Node JS, Deno
-- Angular Material, Ng-Zorro, Material UI, AntDesign, Tailwind CSS, Bootstrap, Reactstrap
+- Material UI, AntDesign, Tailwind CSS, Bootstrap, Reactstrap
+- Angular Material, Ng-Zorro
 
 ⚙ Tools:
 
@@ -53,7 +56,6 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 </a>
 
 <br>
-<hr>
 
 <!-- ### Activity
 
@@ -87,3 +89,5 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 <a href="https://dev.to/ilosrim" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's dev-dot-to profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a> -->
+
+[![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
