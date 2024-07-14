@@ -56,6 +56,7 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 </a>
 
 <br>
+<br>
 
 <!-- ### Activity
 
