@@ -5,12 +5,13 @@
 
 🗒 Skills:
 
-- PHP, Typescript, Javascript, rust, bash
-- Yii2, Laravel, Angular, React
-- HTML, CSS, SCSS, Less
-- Node JS, Deno
-- Material UI, AntDesign, Tailwind CSS, Bootstrap, Reactstrap
-- Angular Material, Ng-Zorro
+- PHP, Typescript, Javascript
+- React.js, Next.js, Laravel, Yii2
+- HTML, CSS, SASS, SCSS
+- Tailwind CSS, Bootstrap/Reactstrap
+- Nginix
+- Docker
+- MySQL
 
 ⚙ Tools:
 
