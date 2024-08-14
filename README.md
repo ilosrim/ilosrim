@@ -15,7 +15,7 @@
 
 ⚙ Tools:
 
-- Neovim, VS Code, Micro
+- Zed, Neovim, VS Code, Micro
 - Figma, Notion, MO Word, MO Exel
 - Chrome, Firefox, Edge
 
