@@ -1,8 +1,8 @@
-[![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
+<!-- [![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN) -->
 
 ### 🙋‍♂️ Hi, I'm Mirsoli - a.k.a **ilosrim**
 ### 💻 I am a software engineer
-
+<!--
 🗒 Skills:
 
 - PHP, Typescript, Javascript
@@ -18,7 +18,7 @@
 - Zed, Neovim, VS Code, Micro
 - Figma, Notion, MO Word, MO Exel
 - Chrome, Firefox, Edge
-
+-->
 <!--
 ### Skills:
 - Typescript, JavaScript
