@@ -1,7 +1,8 @@
 [![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
 
-🙋‍♂️ Hi, I'm Mirsoli - a.k.a **ilosrim**
-💻 I am a software engineer
+🙋‍♂️Hi, I'm Mirsoli - a.k.a **ilosrim** 
+
+🥋I am a full-stack developer
 <!--
 🗒 Skills:
 
