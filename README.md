@@ -1,7 +1,7 @@
-<!-- [![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN) -->
+[![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
 
-### 🙋‍♂️ Hi, I'm Mirsoli - a.k.a **ilosrim**
-### 💻 I am a software engineer
+🙋‍♂️ Hi, I'm Mirsoli - a.k.a **ilosrim**
+💻 I am a software engineer
 <!--
 🗒 Skills:
 
@@ -36,8 +36,6 @@
 ## About:
 I am a programmer, in the field of bioinformatics as well as the production of frontend web and telegram bots. I have two-years experience in the field. In addition, I'm a creator of e-commerce, single-page and multi-page, as well as admin panel websites.
 -->
-
-### Links:
 
 <a href="https://ilosrim.uz" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's portfolio website" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Edge.svg" />
@@ -92,4 +90,4 @@ I am a programmer, in the field of bioinformatics as well as the production of f
    <img align="left" style="color:white" alt="ilosrim's dev-dot-to profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a> -->
 
-[![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
+<!-- [![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
