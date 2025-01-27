@@ -1,8 +1,20 @@
-[![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
+<p align="center" >
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://ilosrim.uz" target="_blank">website</a> .
+    <a href="https://linkedin.com/in/ilosrim" target="_blank">linkedin</a> .
+    <a href="https://t.me/ilosrim" target="_blank">telegram</a>
+  </samp>
+</p>
+
+<!-- [![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
 
 🙋‍♂️Hi, I'm Mirsoli - a.k.a **ilosrim** 
 
-🥋I am a full-stack developer
+🥋I am a full-stack developer-->
 <!--
 🗒 Skills:
 
@@ -37,20 +49,21 @@
 ## About:
 I am a programmer, in the field of bioinformatics as well as the production of frontend web and telegram bots. I have two-years experience in the field. In addition, I'm a creator of e-commerce, single-page and multi-page, as well as admin panel websites.
 -->
-
+<!--
 <a href="https://ilosrim.uz" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's portfolio website" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/RSS.svg" />
 </a>
 <a href="https://linkedin.com/in/ilosrim" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's linkedin profile" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
 </a>
+-->
 
 <!--
 <a href="https://x.com/ilosrim" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's twitter profile" width="22px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" />
 </a>
 -->
-
+<!--
 <a href="https://t.me/ilosrim" target="_blank">
    <img align="left" style="color:white" alt="ilosrim's telegram profile" width="22px" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Telegram.svg" />
 </a>
@@ -60,7 +73,7 @@ I am a programmer, in the field of bioinformatics as well as the production of f
 
 <br>
 <br>
-
+-->
 <!-- ### Activity
 
 <br>
