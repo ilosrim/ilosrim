@@ -1,5 +1,5 @@
 <p align="center" >
-   <img src="./assets/readme-banner.gif" alt="banner"/>
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" >
-   <img src="./assets/readme-banner.gif" alt="banner"/>
+   <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
 </p>
 
 <p align="center">
