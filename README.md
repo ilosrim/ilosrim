@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://hits.sh/github.com/ilosrim/">
-        <img src="https://hits.sh/github.com/ilosrim.svg?view=today-total&label=ilosrim's%20viewers%20(today%20%2F%20total)&color=243245&labelColor=515a66">
+        <img src="https://hits.sh/github.com/ilosrim.svg?view=today-total&label=ilosrim's%20viewers%20(today%20%2F%20total)&color=ff5a00&labelColor=0a0505">
   </a>
 </p>
 
