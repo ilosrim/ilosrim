@@ -14,6 +14,12 @@
    <img src="https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN" alt="banner"/>
 </p>
 
+<p align="center">
+    <a href="https://hits.sh/github.com/ilosrim/">
+        <img src="https://hits.sh/github.com/ilosrim.svg?view=today-total&label=ilosrim's%20viewers%20(today%20%2F%20total)&color=243245&labelColor=515a66">
+  </a>
+</p>
+
 <!-- [![dBau4ZN.gif](https://iili.io/dBau4ZN.gif)](https://freeimage.host/i/dBau4ZN)
 
 🙋‍♂️Hi, I'm Mirsoli - a.k.a **ilosrim** 
